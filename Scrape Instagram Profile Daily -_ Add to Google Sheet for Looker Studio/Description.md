@@ -2,8 +2,7 @@
   <h1>📊 Instagram Profile Scraper to Google Sheets</h1>
   <p>Automated daily Instagram data collection with Apify → Google Sheets → Looker Studio integration</p>
   
-  <img src="Scrape Instagram Profile Daily -_ Add to Google Sheet for Looker Studio
-.png" alt="Instagram Scraper Automation Screenshot" style="max-width:100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <img src="Scrape Instagram Profile Daily -_ Add to Google Sheet for Looker Studio.png" alt="Instagram Scraper Automation Screenshot" style="max-width:100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   
   <h2>✨ Automation Features</h2>
 </div>
