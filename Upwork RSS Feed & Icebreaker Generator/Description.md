@@ -2,7 +2,7 @@
   <h1>🚀 Upwork RSS Feed & Icebreaker Generator</h1>
   <p>Automate your Upwork job search and client outreach with this powerful Make.com automation</p>
   
-  <img src="image.png" alt="Upwork RSS Feed & Icebreaker Generator Screenshot" style="max-width:100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <img src="Upwork RSS Feed & Icebreaker Generator.png" alt="Upwork RSS Feed & Icebreaker Generator Screenshot" style="max-width:100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   
   <h2>✨ Features</h2>
 </div>
@@ -48,7 +48,6 @@
       <li>Tailor the filters to match your ideal client profile</li>
       <li>Integrate with your CRM or existing business tools</li>
       <li>Add custom reporting features to track your success metrics</li>
-      <li>Implement team collaboration features if you have multiple freelancers</li>
     </ul>
     <p>Let's discuss how we can configure this automation to give you a competitive edge on Upwork!</p>
   </div>
