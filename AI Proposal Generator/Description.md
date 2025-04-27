@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⚡ Distrovery Call Form Automation</h1>
+  <h1>⚡ AI Proposal Generator</h1>
   <p>Streamlined proposal generation with automated workflows</p>
   
   <img src="AI Proposal Generator Flow.png" alt="Distrovery Call Automation Flow" style="max-width:100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
