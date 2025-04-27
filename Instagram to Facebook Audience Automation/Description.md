@@ -2,7 +2,7 @@
   <h1>⚡ Instagram to Facebook Audience Automation</h1>
   <p>Seamless audience transfer from Instagram to Facebook Ads</p>
   
-  <img src="image.png" alt="Instagram to Facebook Audience Flow" style="max-width:100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <img src="1. Instagram Followers Scraper -_ Facebook Custom Audience.png" alt="Instagram to Facebook Audience Flow" style="max-width:100%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
 </div>
 
 <div style="max-width: 800px; margin: 0 auto;">
