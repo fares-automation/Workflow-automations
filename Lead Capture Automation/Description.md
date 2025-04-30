@@ -5,6 +5,7 @@
   <div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0; flex-wrap: wrap;">
     <img src="Photography CRM Flow (1).png" alt="Booking Capture Phase" style="max-width: 30%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
     <img src="Photography CRM Flow (2).png" alt="7-Day Reminder" style="max-width: 30%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <br>
     <img src="Photography CRM Flow (3).png" alt="1-Day Reminder" style="max-width: 30%; border: 1px solid #eee; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   </div>
 </div>
